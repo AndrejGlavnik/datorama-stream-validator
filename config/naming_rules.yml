@@ -1,0 +1,24 @@
+stream_name_pattern: "^[A-Z]{2}_[A-Z0-9]+_(GA4|GOOGLEADS|META|RETAILER|S3|API)_[A-Z0-9_]+$"
+campaign_pattern: "^[A-Z]{2}_[A-Z0-9]+_(SEARCH|SOCIAL|RETAIL|DISPLAY|VIDEO)_[A-Z0-9_]+$"
+allowed_countries:
+  - NL
+  - BE
+  - FR
+  - DE
+allowed_categories:
+  - Core
+  - Medical
+  - Kids
+allowed_sources:
+  - GA4
+  - GOOGLEADS
+  - META
+  - RETAILER
+  - S3
+  - API
+required_fields:
+  - stream_name
+  - country
+  - category
+  - source
+  - campaign_name

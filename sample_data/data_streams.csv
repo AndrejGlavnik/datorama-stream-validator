@@ -1,0 +1,8 @@
+stream_name,country,category,source,campaign_name,owner,status
+NL_CORE_GA4_WEB_EVENTS,NL,Core,GA4,NL_CORE_SEARCH_BRAND,Analytics,active
+BE_CORE_GOOGLEADS_SEARCH,BE,Core,GOOGLEADS,BE_CORE_SEARCH_BRAND,Agency,active
+FR_MEDICAL_META_SOCIAL,FR,Medical,META,FR_MEDICAL_SOCIAL_AWARENESS,Agency,active
+NL Core Meta Social,NL,Core,META,NL Core Social Campaign,Agency,active
+DE_KIDS_RETAILER_SALES,DE,Kids,RETAILER,DE_KIDS_RETAIL_SUMMER,Vendor,active
+ES_CORE_API_AMAZON,ES,Core,API,ES_CORE_RETAIL_AMAZON,Vendor,planned
+BE_CORE_FACEBOOK_PAID,BE,Core,FACEBOOK,BE_CORE_SOCIAL_PAID,Agency,active
